@@ -1,0 +1,10 @@
+// client
+PROCESS-NAME,Podcasts
+
+// Music
+DOMAIN-KEYWORD,tidal
+DOMAIN-KEYWORD,spotify
+DOMAIN,www.troyboimusic.com
+
+// Video
+DOMAIN-KEYWORD,youtube

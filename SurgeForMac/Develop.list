@@ -1,4 +1,9 @@
 
+// Client
+PROCESS-NAME,WWDC
+PROCESS-NAME,Xcode
+PROCESS-NAME,Python
+// Domain keyword,site
 DOMAIN-KEYWORD,travis-ci
 DOMAIN,bugs.swift.org
 DOMAIN-KEYWORD,appleworldwidedeveloper
@@ -7,3 +12,4 @@ DOMAIN-KEYWORD,wwdc
 DOMAIN-KEYWORD,gitlab
 DOMAIN-KEYWORD,zeplin
 DOMAIN-KEYWORD,realm
+DOMAIN-KEYWORD,rubygems

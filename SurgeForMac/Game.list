@@ -1,2 +1,6 @@
-PROCESS-NAME,/Applications/League of Legends.app/Contents/LoL/LeagueClient.app/Contents/MacOS/LeagueClient
-PROCESS-NAME,/Users/Shared/Riot Games/Riot Client.app/Contents/MacOS/RiotClientServices
+// Client
+PROCESS-NAME,LeagueClient
+PROCESS-NAME,RiotClientServices
+
+// Sites
+DOMAIN-KEYWORD,leagueoflegends

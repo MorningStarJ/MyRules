@@ -1,5 +1,6 @@
 // client
 PROCESS-NAME,Podcasts
+PROCESS-NAME,TV
 
 // Music
 DOMAIN-KEYWORD,tidal
@@ -7,4 +8,7 @@ DOMAIN-KEYWORD,spotify
 DOMAIN,www.troyboimusic.com
 
 // Video
+// Youtube
 DOMAIN-KEYWORD,youtube
+// Apple TV
+DOMAIN-KEYWORD,mzstatic

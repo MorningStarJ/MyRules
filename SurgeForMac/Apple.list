@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,api.smoot.apple.cn
 DOMAIN-KEYWORD,apple
+
+PROCESS-NAME,Podcasts
+PROCESS-NAME,TV

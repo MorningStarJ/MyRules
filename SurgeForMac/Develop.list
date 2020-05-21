@@ -29,3 +29,6 @@ DOMAIN-KEYWORD,opencv
 DOMAIN-KEYWORD,iphonecake
 DOMAIN-KEYWORD,ffmpeg
 DOMAIN-KEYWORD,python
+PROCESS-NAME,Cornerstone
+DOMAIN-KEYWORD,cornerstone
+DOMAIN-KEYWORD,visualstudio

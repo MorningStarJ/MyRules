@@ -24,3 +24,5 @@ DOMAIN-KEYWORD,vapor
 DOMAIN,objectivec2swift.com
 PROCESS-NAME,CMake
 PROCESS-NAME,cmake
+DOMAIN-KEYWORD,swiftify
+DOMAIN-KEYWORD,opencv

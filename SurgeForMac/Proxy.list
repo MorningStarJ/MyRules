@@ -20,6 +20,18 @@ USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
 
 // Custom
+DOMAIN-KEYWORD,bbc
+DOMAIN-KEYWORD,moncler
+DOMAIN,cors.io
+DOMAIN,mitaotv.com
+DOMAIN,outcall-spa.com
+DOMAIN,www.xuehua.us
+DOMAIN-KEYWORD,bincode
+DOMAIN-KEYWORD,spotlistr
+DOMAIN-KEYWORD,tunemymusic
+DOMAIN-KEYWORD,paw
+DOMAIN-KEYWORD,kknews
+DOMAIN,www.urbandictionary.com
 DOMAIN-KEYWORD,hk01
 DOMAIN-KEYWORD,fir3beast.net
 DOMAIN-KEYWORD,charliemonroe

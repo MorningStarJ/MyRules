@@ -1,6 +1,6 @@
 // Client
 PROCESS-NAME,LeagueClient
 PROCESS-NAME,RiotClientServices
-
+PROCESS-NAME,RiotClientServices.old
 // Sites
 DOMAIN-KEYWORD,leagueoflegends

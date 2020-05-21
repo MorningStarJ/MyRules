@@ -22,3 +22,5 @@ DOMAIN-KEYWORD,swiftybeaver
 DOMAIN-SUFFIX,apps.admob.com
 DOMAIN-KEYWORD,vapor
 DOMAIN,objectivec2swift.com
+PROCESS-NAME,CMake
+PROCESS-NAME,cmake

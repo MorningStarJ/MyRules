@@ -20,6 +20,17 @@ USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
 
 // Custom
+DOMAIN,hola-secret.aigauss.com
+DOMAIN-KEYWORD,jwt
+DOMAIN-KEYWORD,hp
+DOMAIN-KEYWORD,paddle
+DOMAIN-KEYWORD,chanel
+PROCESS-NAME,Dash
+DOMAIN-KEYWORD,flyoceanfish.top
+DOMAIN-KEYWORD,gmail
+DOMAIN,mrmad.com.tw
+DOMAIN,osask.cn
+DOMAIN,mrpeak.cn
 DOMAIN-KEYWORD,bbc
 DOMAIN-KEYWORD,moncler
 DOMAIN,cors.io
@@ -37,7 +48,6 @@ DOMAIN-KEYWORD,fir3beast.net
 DOMAIN-KEYWORD,charliemonroe
 DOMAIN-KEYWORD,tunefab
 DOMAIN-KEYWORD,evermeet
-
 DOMAIN-KEYWORD,incase
 DOMAIN-KEYWORD,darksky
 DOMAIN,api.jsdeep.com

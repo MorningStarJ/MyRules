@@ -20,6 +20,22 @@ USER-AGENT,Resilio Sync*
 USER-AGENT,WhatsApp*
 
 // Custom
+DOMAIN-KEYWORD,v2tun
+DOMAIN-KEYWORD,ttky8
+DOMAIN-KEYWORD,apkcombo
+DOMAIN-KEYWORD,apkmirror
+DOMAIN-KEYWORD,apkmonk
+DOMAIN-KEYWORD,evozi
+DOMAIN-KEYWORD,deepl
+DOMAIN,agirls.aottercdn.com
+DOMAIN-KEYWORD,twirpx
+DOMAIN-KEYWORD,eeui
+DOMAIN,www.epochtimes.com
+DOMAIN-KEYWORD,nyancat
+DOMAIN,subs.rowlet.dev
+DOMAIN,www.qingpingshan.com
+DOMAIN-KEYWORD,fff0101
+DOMAIN-KEYWORD,convertio
 DOMAIN-KEYWORD,surge
 DOMAIN-KEYWORD,ytoo
 DOMAIN,bestswifter.com

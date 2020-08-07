@@ -1,5 +1,6 @@
 DOMAIN,bugs.swift.org
 DOMAIN-KEYWORD,appleworldwidedeveloper
+DOMAIN-KEYWORD,wwdc
 // DOMAIN-KEYWORD,developer.apple
 PROCESS-NAME,trustd
 USER-AGENT,*com.apple.mobileme.fmip1

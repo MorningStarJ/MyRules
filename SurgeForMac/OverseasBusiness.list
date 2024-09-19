@@ -1,4 +1,5 @@
 DOMAIN-KEYWORD,cohere
 DOMAIN-SUFFIX,buildwithfern.com
 DOMAIN-SUFFIX,fal.ai
-DOMAIN-KEYWORD,cohere,fal-cdn
+DOMAIN-KEYWORD,cohere,fal-cdn,
+DOMAIN-KEYWORD,elevenlabs
